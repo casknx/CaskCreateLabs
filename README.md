@@ -1,4 +1,4 @@
-# [casknx.github.io/CaskCreateLabs](casknx.github.io/CaskCreateLabs)
+# [Cask Create Labs](https://casknx.github.io/CaskCreateLabs)
 
 [![pages-build-deployment](https://github.com/casknx/CaskCreateLabs/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/casknx/CaskCreateLabs/actions/workflows/pages/pages-build-deployment)
 
